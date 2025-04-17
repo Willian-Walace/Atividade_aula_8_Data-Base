@@ -1,9 +1,9 @@
-# Data-Base
+#Atividades da Aula 8 de Banco de Dados
 
 1) Crie um banco de dados, insira informações nele e responda: quantas disciplinas estão cadastradas,
 quantos alunos estão registrados e quais cursos são oferecidos.
 
-2)2) CREATE DATABASE e USE
+2) CREATE DATABASE e USE
 Crie um banco de dados chamadoEmpresaX eselecione o para uso.
 
 CREATE TABLE
